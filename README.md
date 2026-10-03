@@ -1,2 +1,2 @@
 # estoque-java
-Pequeno sistema de controle de estoque no consolo ainda em desenvolvimento
+Pequeno sistema de controle de estoque no console ainda em desenvolvimento
